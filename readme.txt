@@ -1,6 +1,8 @@
-hello world!
-this rar file including some exe file and more 
-was create and designed by mtmoein for fun! :D
-it's one click to hidify setup!
-enjoy!
-like and sub if you mind! ;D
+0.5.hit star icon to give me appreciation of 3 day's hard work :D
+1.download mtmoein_vpn_hidify_warp_windows.rar file
+2.extract it to your computer
+3.run the Run_me.bat file
+4.open hiddify on your pc
+5.click new profile on top right corner of your app
+6.click add from clipboard
+7.enjoy!
